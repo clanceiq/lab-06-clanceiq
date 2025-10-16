@@ -2,16 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Lance Quinto`
+- **CCID:** `ciquinto`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- https://howtodoinjava.com/junit5/expected-exception-example/
+- https://www.infoworld.com/article/3305792/comparing-java-objects-with-equals-and-hashcode.html
+- ChatGPT for help with the implementation of overriding HashCode
 
 ## Verbal Collaboration
 
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+`N/A`
